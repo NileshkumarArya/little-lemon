@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Little Lemon Restaurant App
 
 React Native (Expo) mobile app for the Little Lemon Mediterranean restaurant.
@@ -33,3 +34,7 @@ Then scan QR with Expo Go app (iOS/Android) or press:
 - `@react-navigation/native` + `@react-navigation/native-stack`
 - `react-native-screens` + `react-native-safe-area-context`
 - `@react-native-async-storage/async-storage`
+=======
+# little-lemon
+A React Native (Expo) restaurant app for Little Lemon — with onboarding, menu browsing, and persistent user profile.
+>>>>>>> 37e74472e4ce2e5858c956fc5b31d76e5f40d811
